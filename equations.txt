@@ -1,0 +1,18 @@
+﻿"Bracket Width" = 1.5in ' Adjustable geometry
+"Sheet Thickness" = 4mm
+"Bracket Body Height" = 30mm
+"Dip Height" = 10mm
+"Shelf Thickness" = 3.5mm
+"Shelf Extrusion Width" = 25mm
+
+"Height from Top" = "Bracket Body Height" - "Shelf Thickness" ' Parametric 
+"Distance From Edge" = "Shelf Thickness" /2
+"Shelf Upturn Width" = "Bracket Width" / 3
+"Shelf Extrusion Height" = "Bracket Width" / 3
+"Shelf End Fillet" = "Shelf Thickness" / 4
+"Shelf to Bracket Fillet" = "Shelf Thickness" /2
+
+"Top Portion Height" = 0.5in ' Constants
+"Bracket Edge Fillet" = 0.25in
+"Bend Fillet" = 0.125in
+"Top Overhang" = 8mm + "Sheet Thickness"

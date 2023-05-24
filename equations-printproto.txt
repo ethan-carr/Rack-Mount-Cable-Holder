@@ -1,0 +1,7 @@
+"Bracket Width" = 10mm
+"Sheet Thickness" = 4mm
+"Top Portion Height" = 0.5in
+"Top Overhang" = 10mm
+"Bracket Body Height" = 20mm
+"Bracket Edge Fillet" = 0.25in
+"Bend Fillet" = 0.125in
